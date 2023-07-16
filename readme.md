@@ -1,3 +1,6 @@
+<Currently 1:1 fork/clone of Gabonator's hard work with the LA104, nothing original from me here yet>
+
+
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/gabonator/la104)](https://hub.docker.com/r/gabonator/la104/builds)
 
 
